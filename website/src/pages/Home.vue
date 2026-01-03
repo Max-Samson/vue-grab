@@ -49,7 +49,7 @@ onMounted(() => {
       <div class="pixel-card pixel-crack p-8 space-y-6">
         <div class="flex items-center gap-4">
           <div class="pixel-key bg-vueGreen text-white text-2xl px-6 py-3">Ctrl + C</div>
-          <h3 class="pixel-font text-3xl text-vueNavy">Copy Component Info</h3>
+          <h3 class="pixel-font text-2xl text-vueNavy">Copy Component Info</h3>
         </div>
         <p class="text-white text-lg">
           Hover over any Vue component and press <span class="font-mono bg-vueNavy/50 px-3 py-1 rounded">Ctrl + C</span> to copy detailed component information.
@@ -78,7 +78,7 @@ onMounted(() => {
       <div class="pixel-card pixel-crack p-8 space-y-6">
         <div class="flex items-center gap-4">
           <div class="pixel-key bg-[#FFD700] text-black text-2xl px-6 py-3">Ctrl + X</div>
-          <h3 class="pixel-font text-3xl text-vueNavy">AI Agent Edit</h3>
+          <h3 class="pixel-font text-2xl text-vueNavy w-[180px]">AI Agent Edit</h3>
         </div>
         <p class="text-white text-lg">
           Select any Vue component, press <span class="font-mono bg-[#FFD700]/50 px-3 py-1 rounded">Ctrl&nbsp;+&nbsp;X</span>, enter your prompt, and let AI agents modify the code directly.
